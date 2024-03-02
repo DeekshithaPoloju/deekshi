@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deekshi/static/css/main.ff02f4b5.css",
+    "main.js": "/deekshi/static/js/main.9f732dd9.js",
+    "static/js/453.bf636923.chunk.js": "/deekshi/static/js/453.bf636923.chunk.js",
+    "index.html": "/deekshi/index.html",
+    "main.ff02f4b5.css.map": "/deekshi/static/css/main.ff02f4b5.css.map",
+    "main.9f732dd9.js.map": "/deekshi/static/js/main.9f732dd9.js.map",
+    "453.bf636923.chunk.js.map": "/deekshi/static/js/453.bf636923.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.9f732dd9.js"
+  ]
+}
